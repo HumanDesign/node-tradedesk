@@ -1,0 +1,24 @@
+{
+  "name": "node-tradedesk",
+  "description": "Library for interfacing with TradeDesk's API v3.0.",
+  "version": "0.0.1",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "author": {
+    "name": "Stephen Thoma",
+    "email": "stephen@stephenthoma.com",
+    "url": "http://www.stephenthoma.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olalonde/node-yelp.git"
+  },
+  "homepage": "https://github.com/HumanDesign/node-tradedesk",
+  "dependencies": {
+    "deep-extend": "^0.4.0",
+    "request": "^2.55.0",
+    "url": "^0.10.3"
+  }
+}

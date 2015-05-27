@@ -1,5 +1,6 @@
 #node-tradedesk
 ---
+<a href="https://nodei.co/npm/node-tradedesk/"><img src="https://nodei.co/npm/node-tradedesk.png?downloads=true&stars=true"></a>
 ## Description
 node-tradedesk is a node.js module for interacting with The Trade Desk's API. View the API's documentation at [https://apis.thetradedesk.com/v3/doc](https://apisb.thetradedesk.com/v3/doc)
 
